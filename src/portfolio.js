@@ -4,50 +4,43 @@
 
 const greeting = {
   /* Your Summary And Greeting Section */
-  title: "Hi all I'm Saad",
+  title: "Hi all I'm Somil",
   subTitle:
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks",
-  resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
+    `I am a tech enthusiast and believe in the voice-first paradigm and that voice-tech is the next big revolution. 
+    In my spare time, the development community is a big part of my life. I also develop Alexa skills and Google Actions 
+    that can improve the lifestyle of customers, by designing engaging voice experience. 
+    I spend a lot of time learning emerging technologies and actively figuring out venues that would help me integrate this 
+    cutting-edge technology into consumer and enterprise products.`,
+  resumeLink: "https://drive.google.com/file/d/1WSskHK2mneAoVfAiHR09itzJ5ZTc2Qpn/view?usp=sharing"
 };
 
 // Your Social Media Link
 
 const socialMediaLinks = {
 
-  github: "https://github.com/saadpasta",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "saadpasta70@gmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/saad.pasta7"
+  github: "https://github.com/somilg050",
+  linkedin: "https://www.linkedin.com/in/somil-gupta-74222b136/",
+  gmail: "somilg050@gmail.com",
+  gitlab: "https://gitlab.com/somilg050",
+  facebook: "https://www.facebook.com/somil4213"
 };
 
 // Your Skills Section
 
 const skillsSection = {
   title: "What i do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANT TO EXPLORE EVERY TECH STACK",
+  subTitle: "VUI DEVELOPER WHO WANT TO INTEGRATE VOICE EVERYWHERE",
   skills: [
-    "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications",
-    "⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks",
-    "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+    "⚡ Develop highly interactive Voice User Interfaces for voice applications",
+    "⚡ Freelancing voice skill development for various organizations",
+    "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean",
+    "⚡ Creating application backend in Node & Express"
   ],
 
 /* Make Sure You include correct Font Awesome Classname to view your icon
 https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
-    {
-      skillName: "html-5",
-      fontAwesomeClassname: "fab fa-html5"
-    },
-    {
-      skillName: "css3",
-      fontAwesomeClassname: "fab fa-css3-alt"
-    },
-    {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
-    },
     {
       skillName: "JavaScript",
       fontAwesomeClassname: "fab fa-js"
@@ -59,10 +52,6 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "nodejs",
       fontAwesomeClassname: "fab fa-node"
-    },
-    {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
     },
     {
       skillName: "npm",
@@ -115,8 +104,8 @@ const techStack = {
 To know how to get github key look at readme.md */
 
 const openSource = {
-  githubConvertedToken: "Your Github Converted Token",
-  githubUserName: "Your Github Username"
+  githubConvertedToken: "Z2l0OiBodHRwczovL2dpdGh1Yi5jb20vIG9uIERFU0tUT1AtOTMzVEkyRSBhdCAxMS1KdWwtMjAxOSAxOToyOA==",
+  githubUserName: "somilg050"
 };
 
 
